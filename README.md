@@ -1,39 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Ola!+sou+Gleilson!;Mestrando+em+Ciência+da+;Computação)](https://git.io/typing-svg)
+# Gleilson Pedro | Cientista de Dados & Desenvolvedor Python
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+📍 Brasil | 🔗 [LinkedIn](https://www.linkedin.com/in/gleilson-pedro/) | 🐱 [GitHub](SEU_LINK_DO_GITHUB_AQUI)
 
-### 🛠 &nbsp;Skills
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## 🚀 Sobre Mim
+Mestrando em Ciência da Computação com formação em Ciência de Dados, sou um Desenvolvedor Python e Front-End apaixonado por resolver problemas através de código. Minhas áreas de interesse incluem **XAI (Explainable AI)** e **Visão Computacional**, onde busco aprofundar meus conhecimentos e aplicar soluções inovadoras. Adoto desafios complexos como oportunidades para crescer e acredito no poder da automação para transformar processos.
 
-<br/>
+---
 
+## 💻 Habilidades Técnicas
+**Linguagens:**
+* 🐍 Python (Pandas, NumPy, OpenCV)
+* 🌐 JavaScript, HTML, CSS
 
-<details>
-  <summary>☎️ Contatos</summary>
-<div>
-  <samp>
-    <h2 align="center">😎 Onde pode me contactar:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/gleilson-pedro/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://mailto:gleilsonsvo@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/gleilson.pedro" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-  </samp>
-</div>
-</details>
+**Ferramentas:**
+* 🛠️ Git/GitHub
+* 📝 Markdown
+* 💻 VSCode
+
+**Conhecimentos em Desenvolvimento & Pesquisa:**
+* 🧠 XAI (Explainable AI)
+* 👁️ Visão Computacional
+* 🤖 Deep Learning
+
+---
+
+## 🏆 Projetos Destacados
+* **Sistema de Conversão PDF-GIF**
+    * Automação que reduziu em 70% o tamanho de arquivos para visualização web.
+* **Site Cérebro no Comando!**
+    * Plataforma interativa para aprendizado de inglês instrumental.
+* **Intranet Corporativa**
+    * Desenvolvimento de portal interno com painel de chamados integrado.
+
+---
+
+## 🎓 Formação
+* **Mestrado em Ciência da Computação** (Em andamento)
+    * IFCE
+* **Curso Superior em Ciência de Dados**
+    * Uninassau
+
+---
+
+## 🌟 O Que Ofereço
+* Soluções criativas para automação de processos e otimização de fluxos de trabalho.
+* Desenvolvimento de ferramentas web eficientes e responsivas.
+* Habilidade em traduzir necessidades complexas em código funcional e de alto impacto.
+* Paixão por projetos que unem tecnologia e impacto real, com foco em resultados.
+
+---
+
+## 🔮 Objetivos Atuais
+Busco oportunidades para:
+* Aplicar e aprofundar conhecimentos em XAI em projetos de machine learning.
+* Desenvolver soluções inovadoras em visão computacional.
+* Colaborar em equipes dinâmicas que valorizem o aprendizado contínuo e a troca de conhecimentos.
+
+---
+
+## 📌 Diferenciais
+* Desenvolvedor criativo com abordagem hands-on na resolução de problemas.
+* Habilidade para aprender rapidamente novas tecnologias e se adaptar a novos desafios.
+* Inglês técnico para leitura e documentação.
